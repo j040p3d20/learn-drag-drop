@@ -1,0 +1,22 @@
+
+.container
+{
+    margin:12px;
+    padding:12px;
+    background:rgba(128,128,128,0.1);
+    vertical-align:top;
+    display:inline-block;
+}
+
+.content
+{
+    min-width:100px;
+    margin-top:12px;
+    padding:12px;
+    background:rgba(128,128,128,0.1);
+}
+
+.content:first-child
+{
+    margin-top:0px;
+}
